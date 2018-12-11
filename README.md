@@ -23,5 +23,5 @@ Batch Size: 100         Accuracy: 0.6592        Precision: 0.6111
 ```
 
 
-confusion matrices are also plotted after training:
+confusion matrices are also plotted after training
 ![alt text](https://github.com/SadeghNK/Logistic-Regression-on-Titanic/raw/master/confusion%20matrices.PNG)
