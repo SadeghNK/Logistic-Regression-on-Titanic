@@ -4,6 +4,7 @@ A simple implementation of logistic regression on titanic data set using numpy.
 this was done for a college assignment.
 
 here we only used 3 features in titanic data: age, sex, pclass
+
 the training is done for 100 epochs with different training batch sizes of 1, 5, 10 and 100 to compare the role of batch size hyperparameter on optimization.
 
 ```python
