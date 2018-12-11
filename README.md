@@ -1,4 +1,4 @@
-# LogisticRegression_Titanic
+# Logistic Regression on Titanic
 A simple implementation of logistic regression on titanic data set using numpy.
 
 this was done for a college assignment.
